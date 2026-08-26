@@ -1,0 +1,15 @@
+TRADUÇÃO PT-BR — ALICE: MADNESS RETURNS
+
+1. Feche o jogo e a Steam, se possível.
+2. Faça uma cópia da pasta AliceGame original.
+3. Extraia Alice-Madness-Returns-PTBR-v1.0.0.zip na pasta:
+
+   C:\Program Files (x86)\Steam\steamapps\common\Alice Madness Returns
+
+4. Confirme a mesclagem da pasta AliceGame.
+5. Abra a Steam e inicie o jogo com o idioma English/Inglês selecionado.
+
+A tradução usa o slot INT (idioma inglês do jogo). Não renomeie os arquivos localizados.
+
+Para instalar em outra biblioteca Steam, use a pasta principal que contém Binaries e AliceGame.
+

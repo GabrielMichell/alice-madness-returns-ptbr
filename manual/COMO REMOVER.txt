@@ -1,0 +1,6 @@
+TRADUÇÃO PT-BR — REMOÇÃO
+
+Para remover manualmente, restaure os arquivos originais da cópia de segurança feita antes da instalação e apague somente os arquivos localizados adicionados pelo pacote.
+
+Se a instalação foi feita pela Central PT-BR, use o botão Remover tradução no aplicativo. A Central restaura o backup criado durante a instalação.
+

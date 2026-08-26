@@ -1,0 +1,9 @@
+# O ZIP é um asset da release do GitHub; mantenha-o fora do histórico do repositório.
+release/**/*.zip
+
+# Backups e arquivos temporários da tradução não pertencem ao repositório público.
+backup-original/
+work/
+logs/
+*.log
+
