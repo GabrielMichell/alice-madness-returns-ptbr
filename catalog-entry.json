@@ -10,7 +10,7 @@
   "folderHints": ["Alice Madness Returns"],
   "executableHints": ["AliceMadnessReturns.exe"],
   "install": [
-    { "from": "AliceGame", "to": "game" }
+    { "from": ".", "to": "game" }
   ],
   "assets": [
     {
